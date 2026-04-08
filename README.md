@@ -13,4 +13,5 @@ python class contents
     *** 작업 폴더를 기준으로 파일을 열거나 저장, 닫음
     *** 파일명, 절대경로, 상대경로로 표시가능
 
-    <img width="955" height="711" alt="image" src="https://github.com/user-attachments/assets/7987227d-3140-43c1-a0fc-c1ca5dd95b9c" />
+<img width="1017" height="649" alt="image" src="https://github.com/user-attachments/assets/787cf65d-687e-4214-8247-5f577c318961" />
+
