@@ -7,3 +7,5 @@ python class contents
   ** type() : 클래스의 데이터형을 확인함
   ** isinstance() : 주어진 값이 특정 클래스에 속하는지를 확인
   ** Type conversion : int(), float(), complex() / int와 float간의 연산은 결과가 float로 강제 변환 => 왜? => (int는 정수형, float는 실수형이라 둘간의 연산결과값에 따라 실수가 나올수있기때문에 '데이터 손실'을 막기위해 float로 강제 변환(암시적 형변환)된다.)
+---
+*File I/O
