@@ -14,4 +14,6 @@ python class contents
     *** 파일명, 절대경로, 상대경로로 표시가능
 
 <img width="1017" height="649" alt="image" src="https://github.com/user-attachments/assets/787cf65d-687e-4214-8247-5f577c318961" />
-
+'w' : Opens a file for writing. 
+    Creates a new file if it does not exist or truncates the file if it exists.
+* truncate : 대체하다
