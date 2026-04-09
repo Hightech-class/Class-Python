@@ -38,7 +38,10 @@ OOP를 OOP답게 만드는 4가지 약속이 존재함. 이 특징들 덕분에 
 
   ** 예시)
   <img width="580" height="315" alt="image" src="https://github.com/user-attachments/assets/5a011a83-37e4-4704-84e5-7ee12e92a59d" />
-
+---
+* overloading
+  ** 예시)
+  <img width="717" height="624" alt="image" src="https://github.com/user-attachments/assets/fa028780-fde3-44be-a117-190c20c68c69" />
 
   
   
