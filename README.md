@@ -28,6 +28,10 @@ OOP를 OOP답게 만드는 4가지 약속이 존재함. 이 특징들 덕분에 
 * 캡슐화(Encapsulation) : Method, 변수에 대한 접근 제한 및 직접적인 데이터 수정 방지
   ** 예시)
    <img width="597" height="593" alt="image" src="https://github.com/user-attachments/assets/5ed7330d-e36d-4826-bce8-7905226b69ed" />
+---
+* 다형성(Polymorphism) : 다양한 데이터 유형에 대해 공통 인터페이스를 사용
+   ** 예시)
+  <img width="748" height="619" alt="image" src="https://github.com/user-attachments/assets/c7c9c343-6883-4b11-b5a5-83126054dc86" />
 
 
   
