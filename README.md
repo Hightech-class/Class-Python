@@ -24,6 +24,10 @@ OOP를 OOP답게 만드는 4가지 약속이 존재함. 이 특징들 덕분에 
 * 상속 : 기본(상위) 클래스의 내용을 수정하지않고, 그대로 사용하기 위해 새로운 파생(자식)클래스를 생성하는 방식
   ** 예시)
   <img width="508" height="706" alt="image" src="https://github.com/user-attachments/assets/8b0f3a85-a8b0-4654-b534-0572a09c576b" />
+---
+* 캡슐화(Encapsulation) : Method, 변수에 대한 접근 제한 및 직접적인 데이터 수정 방지
+  ** 예시)
+   <img width="597" height="593" alt="image" src="https://github.com/user-attachments/assets/5ed7330d-e36d-4826-bce8-7905226b69ed" />
 
 
   
