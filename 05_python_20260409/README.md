@@ -1,0 +1,47 @@
+# Hightech_python_20260409
+python class contents
+===========================
+---
+* Object-oriented programming(객체 지향 프로그래밍)
+  ** 데이터와 기능을 가진 '객체(Object)'들의 집합으로 파악하여 이들 간의 상호작용을 통해 프로그램을 구성하는 방식(현실 세계의 사물을 소프트웨어 안으로 옮겨온다고 생각하면됨)
+---
+* OOP의 4대 특징 (The 4 Pillars)
+OOP를 OOP답게 만드는 4가지 약속이 존재함. 이 특징들 덕분에 코드가 깔끔해지고 재사용하기 좋아짐.
+
+① 캡슐화 (Encapsulation)
+데이터(변수)와 그 데이터를 처리하는 함수(메서드)를 하나로 묶음. 내부의 상세한 구현은 숨기고 외부에는 필요한 인터페이스만 공개하여 데이터를 안전하게 보호.
+
+② 상속 (Inheritance)
+기존의 클래스(부모)를 물려받아 새로운 클래스(자식)를 만듦. 공통된 기능을 다시 만들 필요가 없어 코드 재사용성이 극대화됨.
+
+③ 추상화 (Abstraction)
+복잡한 내부 로직은 숨기고 핵심적인 개념만 추출하여 단순화하는 것. 사용자는 구체적으로 어떻게 작동하는지 몰라도 "무엇을 하는지"만 알면 도구를 사용할 수 있음.
+
+④ 다형성 (Polymorphism)
+하나의 인터페이스나 메서드가 상황에 따라 여러 가지 형태로 동작하는 능력. 예를 들어, '짖다'라는 메서드를 호출했을 때 강아지는 '멍멍', 고양이는 '야옹' 하고 각기 다르게 반응 
+
+---
+* 상속 : 기본(상위) 클래스의 내용을 수정하지않고, 그대로 사용하기 위해 새로운 파생(자식)클래스를 생성하는 방식
+  ** 예시)
+  <img width="508" height="706" alt="image" src="https://github.com/user-attachments/assets/8b0f3a85-a8b0-4654-b534-0572a09c576b" />
+---
+* 캡슐화(Encapsulation) : Method, 변수에 대한 접근 제한 및 직접적인 데이터 수정 방지
+  ** 예시)
+   <img width="597" height="593" alt="image" src="https://github.com/user-attachments/assets/5ed7330d-e36d-4826-bce8-7905226b69ed" />
+---
+* 다형성(Polymorphism) : 다양한 데이터 유형에 대해 공통 인터페이스를 사용
+   ** 예시)
+  <img width="748" height="619" alt="image" src="https://github.com/user-attachments/assets/c7c9c343-6883-4b11-b5a5-83126054dc86" />
+---
+* Class 생성방법
+  ** class 키워드 사용하여 정의, 정의하면 동일한 이름으로 새 클래스 객체가 생성됨
+
+  ** 예시)
+  <img width="580" height="315" alt="image" src="https://github.com/user-attachments/assets/5a011a83-37e4-4704-84e5-7ee12e92a59d" />
+---
+* overloading
+  ** 예시)
+  <img width="717" height="624" alt="image" src="https://github.com/user-attachments/assets/fa028780-fde3-44be-a117-190c20c68c69" />
+
+  
+  
