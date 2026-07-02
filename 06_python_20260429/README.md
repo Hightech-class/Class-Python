@@ -84,7 +84,7 @@ print(f"최댓값: {find_max(data)}") # 출력: 56
     * 공간복잡도 : 알고리즘이 실행되는동안 사용하는 메모리의 양을 측정함
 
 
-<img width="500" height="259" alt="image" src="https://github.com/user-attachments/assets/b9309446-eb35-41f6-80e2-876870491b55" />
+
 
 * 입력 크기 n에대한 알고리즘의 연산의 수 비교(기울기가 완만할수록 우수한 알고리즘)
 
@@ -92,24 +92,24 @@ print(f"최댓값: {find_max(data)}") # 출력: 56
 
 * 점근적 표기(Asymptotic notation) : 알고리즘의 효율성을 측정할 때, 입력 크기 n이 무한히 커짐에 따라 함수값이 어떻게 변하는지를 설명하는 수학적 표기법(수학의 극한개념과 유사함)
     *  데이터 개수가 n -> ∞로 갈 때 연산량이 늘어나는 **기울기**에 집중함
- <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/309cc1fc-f53f-4b04-96cd-1d7628986944" />
+
 
 * 빅오표기법 : 입력값(n)이 무한히 커질 때, 내 코드가 얼마나 느려지는가를 나타내는 표기법. 알고리즘의 효율성을 측정하는 가장 대중적인 척도. 연산횟수의 **상한(최대치)** 에 포커싱함
     * 상수항 무시
     * 낮은 차수 무시
 * 빅오 표기법 정의
     * tmi : 최악의 상황에서도 이 속도보다는 빠르다라는 보증서라고 생각하면 편함
-<img width="262" height="37" alt="image" src="https://github.com/user-attachments/assets/5881d5ea-6a7b-487d-843d-10c7d734962b" />
+
     
 * 빅오메가(big omega) : 함수의 **하한**을 표시함
 * 빅오메가 정의
     * tmi : 데이터가 아무리 많아도, 이 속도보다는 무조건 더 걸리거나 같다
-  <img width="221" height="30" alt="image" src="https://github.com/user-attachments/assets/c07c0fef-0737-4db8-9a32-d81a86391fb6" />
+ 
 
 * 빅세타(big theta) : 같은함수로 **상한,하한**을 표시함. 상한과 하한이 일치할 때 사용
 * 빅세타 정의
     * tmi : 알고리즘의 실행 시간이 특정 함수 범위 안에 딱 갇혀 있는 상태
-<img width="229" height="33" alt="image" src="https://github.com/user-attachments/assets/a8949be9-9b29-4660-9df3-31773030d6c5" />
+
 
 * 알고리즘의 성능을 가장 정확하게 표현하고 싶을 때 사용함. 빅오와 빅오메가가 모두 같은 차수일 때만 빅세타라고 부를 수 있음
 
